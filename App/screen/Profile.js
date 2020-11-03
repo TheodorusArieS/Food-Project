@@ -6,7 +6,7 @@ import Icon from 'react-native-vector-icons/Ionicons'
 function Profile({ navigation }) {
     return (
         <View style={styles.container}>
-            <Text>Profile</Text>
+            <Text>Profile this is how i live now</Text>
             <Button title="Go to Home" onPress={() => navigation.navigate('Home')} />
         </View>
     )
